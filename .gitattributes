@@ -1,0 +1,2 @@
+*.PACK filter=lfs diff=lfs merge=lfs -text
+*.Node filter=lfs diff=lfs merge=lfs -text
